@@ -10,6 +10,7 @@ I also worked for Q2Q Reasearch on a project that automates respondent selection
 
 ### Published work:
 - [Woźniak S.](https://github.com/simonusher) & [Szymański P.](https://github.com/niedakh) (2021). [Hex2vec -- Context-Aware Embedding H3 Hexagons with OpenStreetMap Tags](https://dl.acm.org/doi/abs/10.1145/3486635.3491076) @ [GEOAI '21](https://geoai.ornl.gov/acmsigspatial-geoai/2021-2/)
+- [Gramacki P.](https://github.com/piotrgramacki) & [Woźniak S.](https://github.com/simonusher) & [Szymański P.](https://github.com/niedakh) (2021). [gtfs2vec: Learning GTFS Embeddings for comparing Public Transport Offer in Microregions](https://dl.acm.org/doi/10.1145/3486640.3491392) @ [GeoSearch '21](https://geosearch-workshop.github.io)
 - [Woźniak S.](https://github.com/simonusher), Przewoźniczek M.W. & Komarnicki M.M. (2020). [Parameter-less population pyramid for permutation-based problems](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_29)  
 @ [PPSN 2020](https://ppsn2020.liacs.leidenuniv.nl/)
 
