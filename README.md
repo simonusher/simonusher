@@ -15,7 +15,7 @@ I also worked for Q2Q Reasearch on a project that automates respondent selection
 - [Woźniak S.](https://github.com/simonusher), Przewoźniczek M.W. & Komarnicki M.M. (2020). [Parameter-less population pyramid for permutation-based problems](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_29)  
 @ [PPSN 2020](https://ppsn2020.liacs.leidenuniv.nl/)
 
-### Most interesting projects I was involved in:
+### Most interesting university projects I was involved in:
 - [Politicians Exploratory Analysis Platform](https://github.com/EmbeddML/peap-backend)
 - [Relocation recommendation system](https://github.com/EmbeddML/relocation-recommendation)
 - [WUST paper co-authorship network analysis](https://frugile.github.io/onos-pwr/coautorship/)
