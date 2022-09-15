@@ -5,7 +5,7 @@
 :computer: I work as a Machine Learning Engineer at [Brand24](https://brand24.com/). I research, develop and maintain machine learning solutions from the NLP domain.  
 I also worked for Q2Q Reasearch on a project that automates respondent selection for sociological surveys. It was done using genetic programming and decision trees.
 
-:books: I graduated from the Wroclaw University of Science and Technology with a master's degree in Data Science and a bachelor's degree in Computer Science.
+:books: I graduated from the Wroclaw University of Science and Technology with a master's degree in Applied computer science - Data Science and a bachelor's degree in Computer Science.
 
 
 ### Published work:
