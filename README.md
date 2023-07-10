@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Szymon Woźniak </h1>
 <h3 align="center">AI Researcher, Data Scientist @ <a href="https://surferseo.com/">Surfer</a></h3>
 
-:computer: I work as a Data Scientist at [Surfer](https://surferseo.com/)
+:computer: I work as a Data Scientist at [Surfer](https://surferseo.com/).  
 I previously worked as a Machine Learning Engineer at [Brand24](https://brand24.com/) where I researched, develop and maintain machine learning solutions in the NLP domain.
 I also worked for Q2Q Reasearch on a project that automates respondent selection for sociological surveys. It was done using genetic programming and decision trees.
 
