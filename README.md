@@ -9,6 +9,8 @@ I also worked for Q2Q Reasearch on a project that automates respondent selection
 
 
 ### Published work:
+- [Massively Multilingual Corpus of Sentiment Datasets and Multi-faceted Sentiment Classification Benchmark
+](https://neurips.cc/virtual/2023/poster/73684) @ [NeurIPS 2023 Datasets & Benchmarks](https://neurips.cc/Conferences/2023)
 - [Assessment of Massively Multilingual Sentiment Classifiers](https://aclanthology.org/2022.wassa-1.13/) @ [WASSA](https://wassa-workshop.github.io) [ACL 2022](https://www.2022.aclweb.org)
 - [Woźniak S.](https://github.com/simonusher) & [Szymański P.](https://github.com/niedakh) (2021). [Hex2vec -- Context-Aware Embedding H3 Hexagons with OpenStreetMap Tags](https://dl.acm.org/doi/abs/10.1145/3486635.3491076) @ [GEOAI '21](https://geoai.ornl.gov/acmsigspatial-geoai/2021-2/)
 - [Gramacki P.](https://github.com/piotrgramacki) & [Woźniak S.](https://github.com/simonusher) & [Szymański P.](https://github.com/niedakh) (2021). [gtfs2vec: Learning GTFS Embeddings for comparing Public Transport Offer in Microregions](https://dl.acm.org/doi/10.1145/3486640.3491392) @ [GeoSearch '21](https://geosearch-workshop.github.io)
