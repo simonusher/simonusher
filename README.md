@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Szymon Woźniak </h1>
-<h3 align="center">AI Researcher, Data Scientist @ <a href="https://surferseo.com/">Surfer</a></h3>
+<h3 align="center">AI Researcher, Data Scientist @ <a href="https://surferseo.com/">Surfer</a> <br>Member of <a href="https://kraina.ai/">Kraina.ai</a> Research Lab</h3>
 
 :computer: I work as a Data Scientist at [Surfer](https://surferseo.com/).  
 I previously worked as a Machine Learning Engineer at [Brand24](https://brand24.com/) where I researched, develop and maintain machine learning solutions in the NLP domain.
@@ -7,6 +7,7 @@ I also worked for Q2Q Reasearch on a project that automates respondent selection
 
 :books: I graduated from the Wroclaw University of Science and Technology with a master's degree in Applied computer science - Data Science and a bachelor's degree in Computer Science.
 
+🌍 I am also a co-creator and maintainer of the Spatial Representations for Artificial Intelligence ([srai](https://github.com/kraina-ai/srai/)) library used for representation learning on geospatial data.
 
 ### Published work:
 - [Massively Multilingual Corpus of Sentiment Datasets and Multi-faceted Sentiment Classification Benchmark
@@ -16,6 +17,10 @@ I also worked for Q2Q Reasearch on a project that automates respondent selection
 - [Gramacki P.](https://github.com/piotrgramacki) & [Woźniak S.](https://github.com/simonusher) & [Szymański P.](https://github.com/niedakh) (2021). [gtfs2vec: Learning GTFS Embeddings for comparing Public Transport Offer in Microregions](https://dl.acm.org/doi/10.1145/3486640.3491392) @ [GeoSearch '21](https://geosearch-workshop.github.io)
 - [Woźniak S.](https://github.com/simonusher), Przewoźniczek M.W. & Komarnicki M.M. (2020). [Parameter-less population pyramid for permutation-based problems](https://link.springer.com/chapter/10.1007/978-3-030-58112-1_29)  
 @ [PPSN 2020](https://ppsn2020.liacs.leidenuniv.nl/)
+
+### Open source and research projects
+- [SRAI (Spatial Representations for Artificial Intelligence)](https://github.com/kraina-ai/srai/)
+- [Kraina.ai Research Lab](https://kraina.ai/)
 
 ### Other interesting projects I was involved in:
 - [Politicians Exploratory Analysis Platform](https://github.com/EmbeddML/peap-backend)
